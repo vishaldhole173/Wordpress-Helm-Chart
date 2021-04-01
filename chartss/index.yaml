@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  wpmysql:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2021-03-30T18:43:03.119025601Z"
+    digest: 6b5d5c38c0814880fca620a6a5e4456559297a14a958a53823c834069a54f845
+    name: wpmysql
+    urls:
+    - wpmysql-0.1.tgz
+    version: "0.1"
+generated: "2021-03-30T18:43:03.118439548Z"
